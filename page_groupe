@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Groupe</title>
+    <link href="styles.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="Logo_ALTEN.jpg">
+</head>
+<body>
+    <header>
+        <img src="Logo_ALTEN.jpg" alt="logo Alten">
+        <nav>
+            <a href="">Thème 3</a>
+            <a href="">Thème 2</a>
+            <a href="">Thème 1</a>
+        </nav>
+    </header>
+    <br>
+    <section>
+        <!--titre de la page-->
+    <h1>Le groupe ALTEN</h1>
+    </section>
+
+    <section>
+        <!--présentation contenu de la page pour le livrable 1-->
+        <p>Voici la page où le groupe Alten sera présenté.</p>
+        <br>
+        <p>On y parlera de sa création, de son évolution et de son expansion.
+            Aussi cette page sera dédiée à l'analyse de sa situation économique et financière.
+            Et enfin, on y ajoutera sûrement des éléments présantant leurs innovations.
+        </p>
+    </section>
+
+</body>
+    
+
+</html>
