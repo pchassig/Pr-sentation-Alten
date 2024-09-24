@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Groupe</title>
+    <link href="styles.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="Logo_ALTEN.jpg">
+</head>
+<body>
+    <header>
+        <img src="Logo_ALTEN.jpg" alt="logo Alten">
+        <nav>
+            <a href="">Thème 3</a>
+            <a href="">Thème 2</a>
+            <a href="">Thème 1</a>
+        </nav>
+    </header>
+    <br>
+    <section>
+        <!--titre de la page-->
+    <h1>Les secteurs ALTEN</h1>
+    </section>
+
+    <section>
+        <!--présentation contenu de la page pour le livrable 1-->
+        <p>Dans cette page sera présenté les différents secteurs d'activité de l'entreprise ALTEN.</p>
+        <br>
+    </section>
+    <footer>
+        <p>Crée pas Valentin</p>
+    </footer>
+</body>
+</html>
