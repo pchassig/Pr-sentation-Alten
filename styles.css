@@ -60,7 +60,8 @@ div{
     width: 50%;
     height: 300px;
     background-color: blue;
-    padding: 0;
+    padding: 5px;
+    border: 2px solid black;
 }
 
 .section1 img{
@@ -76,7 +77,8 @@ div{
     height: 300px;
     background-color: blue;
     float: right;
-    padding: 0;
+    padding: 5px;
+    border: 2px solid black;
 }
 
 .section2 img{
