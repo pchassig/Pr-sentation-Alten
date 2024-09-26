@@ -5,27 +5,40 @@ header{
     width: 100%;
 }
 
-header nav a{
-    float: right;
-    color: black;
-    padding-right: 25%;
-    padding-top: 1%;
+#nav_principal{
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
-header img{
+header nav a{
+    color: black;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#nav_sousT{
+    background-color: #8CB5DC;
+    height: 1.2em;
+}
+
+#logo_navigation{
     float: left;
-    width: 2%;
-    height: 100%;
+    width: 30px;
+    height: 50px;
 }
 
 body,html{
     margin: 0;
-    background-color: grey;
 }
 
 
 .body-container{
-    margin-top: 35px;
+    margin-top: 3.5em;
 }
 
 .window-container.flex{
