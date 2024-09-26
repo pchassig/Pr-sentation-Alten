@@ -57,7 +57,7 @@ div{
 }
 
 .section1 div{
-    width: 50%;
+    width: 49%;
     height: 300px;
     border: 2px solid black;
 }
@@ -71,7 +71,7 @@ div{
 }
 
 .section2 div{
-    width: 50%;
+    width: 49%;
     height: 300px;
     float: right;
     padding: 5px;
