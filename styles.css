@@ -63,7 +63,7 @@ div{
 }
 
 .section1 img{
-    width: 50%;
+    width: 49%;
     height: 300px;
     float: right;
     padding: 0;
@@ -74,12 +74,11 @@ div{
     width: 49%;
     height: 300px;
     float: right;
-    padding: 5px;
     border: 2px solid black;
 }
 
 .section2 img{
-    width: 50%;
+    width: 49%;
     height: 300px;
     float: left;
     padding: 0;
