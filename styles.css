@@ -5,8 +5,9 @@ header{
     width: 100%;
 }
 
-header nav{
+#nav_principal{
     padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 header nav a{
@@ -18,6 +19,11 @@ header nav{
     justify-content: space-around;
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+#nav_sousT{
+    background-color: #8CB5DC;
+    height: 1.2em;
 }
 
 #logo_navigation{
@@ -32,7 +38,7 @@ body,html{
 
 
 .body-container{
-    margin-top: 35px;
+    margin-top: 3.5em;
 }
 
 .window-container.flex{
