@@ -39,6 +39,8 @@ body,html{
 
 .body-container{
     margin-top: 3.5em;
+    margin-left-bottom: 5px;
+    margin-right:5px;
 }
 
 .window-container.flex{
