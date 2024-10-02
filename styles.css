@@ -1,5 +1,13 @@
+body{
+    --topback: #537F90;
+    --navst: #709ab6;
+    --font: #8CB5DC;
+    --couleur1: #87636A;
+    --couleur2: #1A4844;
+}
+
 header{
-    background-color: lightblue;
+    background-color: var(--topback);
     height: 50px;
     position: fixed;
     width: 100%;
@@ -22,7 +30,7 @@ header nav{
 }
 
 #nav_sousT{
-    background-color: #8CB5DC;
+    background-color: var(--navst);
     height: 1.2em;
 }
 
@@ -93,7 +101,7 @@ div{
 }
 
 footer{
-    background-color: lightblue;
+    background-color: var(--topback);
     height: 200px;
 }
 
