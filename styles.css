@@ -14,8 +14,24 @@ header{
 }
 
 #nav_principal{
-    padding-top: 1em;
-    padding-bottom: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+#nav_principal a:hover{
+    background-color: var(--couleur2);
+    color: var(--font);
+}
+
+#selectionner{
+    background-color: var(--couleur2);
+    color: var(--font);
+}
+
+#nav_principal a{
+    cursor: pointer;
+    padding: 0.5em;
+    border-radius: 50px;
 }
 
 header nav a{
