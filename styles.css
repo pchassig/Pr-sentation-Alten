@@ -9,6 +9,10 @@ body, html{
     font-family: var(--police);
 }
 
+h2{
+    scroll-margin-top: 80px; /* Déplace la position du scroll vers le bas */
+  }
+
 header{
     background-color: var(--couleur2);
     height: 50px;
