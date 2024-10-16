@@ -139,14 +139,20 @@ iframe{
     height: 300px;
 }
 .sous_partie img{
-    width: 25%;
-    float: right;
-    height: 6*width;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 
-.texte{
+.texte1{
     width: 50%;
     float: left;
+    padding-left: 100px;
+}
+
+.texte2{
+    width: 50%;
+    float: right;
+    padding-right: 100px;
 }
 
 #vertical-line {
