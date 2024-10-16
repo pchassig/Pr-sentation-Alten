@@ -1,0 +1,35 @@
+
+
+.sthème{ /*bloc de chaque sous-thème*/
+    display: flex;
+    flex-direction: column;
+   
+
+
+}
+
+.partie{ /*partie de paragraphe et photo dans sous-thème*/
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-right :10px;
+    justify-content: center;
+ 
+}
+
+.para-text {
+    display: flex;
+    flex-direction: row;
+    flex-direction: space-between;
+   
+}
+
+.para-text p{
+    
+}
+
+.para-text img{
+    
+    width: 800px;
+    padding: 10px;
+}
