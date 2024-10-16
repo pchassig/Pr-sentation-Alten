@@ -1,0 +1,75 @@
+
+
+.titreEco {
+    position: absolute;
+    top: 50%;
+    left : 30%;
+    z-index: 1;
+    background-color: #37636A;
+    text-decoration: #8cb5dc;
+    height: 4em;
+    width: 800px;
+}
+.titreEco h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section  img{
+    width:100%;
+}
+
+.sthème{ /*bloc de chaque sous-thème*/
+    display: flex;
+    flex-direction: column;
+    background-color: #8cb5dcc7;
+    margin-bottom:20px;
+    
+}
+.sthème h2{
+    padding-left: 10px;
+}
+
+.partie{ /*partie de paragraphe et photo dans sous-thème*/
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-right :10px;
+    justify-content: center;
+    margin :10px;
+    
+    
+ 
+}
+
+.para-text {
+    display: flex;
+    flex-direction: row;
+    
+    border-radius: 10px;
+    justify-content: space-around;
+   
+    align-items: center;
+    
+   
+}
+
+.para-text p{
+    display: flex;
+    text-align: justify;
+    flex-direction: row;
+    width: 40%;
+    background-color: whitesmoke;
+    padding:20px;
+    border-radius: 10px;
+    
+}
+
+.para-text img{
+    
+    border: 1px solid black;
+    width: 750px;
+    margin: 10px;
+    justify-content: center;
+}

@@ -25,7 +25,7 @@ header{
 
 #nav_principal{
     padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    padding-bottom: 7px;
 }
 
 #nav_principal a:hover{
@@ -73,8 +73,7 @@ header nav{
 }
 
 main{
-    margin-top: 5em;
-    margin-left: 10px;
+    margin-top: 4em;
 }
 
 
@@ -135,6 +134,25 @@ iframe{
     height: 1000px;
 }
 
+.sous_partie{
+    height: 300px;
+}
+.sous_partie img{
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.texte1{
+    width: 50%;
+    float: left;
+    padding-left: 100px;
+}
+
+.texte2{
+    width: 50%;
+    float: right;
+    padding-right: 100px;
+}
 
 #vertical-line {
     position: relative;
@@ -209,10 +227,6 @@ iframe{
     height: 200px;
 }
 
-.frise_text h2{
-    margin-top: 10px;
-}
-
 #legende_vert{
     border-left: solid #267F00 20px;
     margin: 5px;
@@ -226,4 +240,14 @@ iframe{
 
 #legende_2000{
     margin-left: 10px;
+}
+
+#carte_expansion{
+    width: 95%;
+}
+
+#carte{
+    display: flex;
+    justify-content: center;
+    background-color: whitesmoke;
 }
