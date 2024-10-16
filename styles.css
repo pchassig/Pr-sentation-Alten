@@ -149,7 +149,6 @@ iframe{
     float: left;
 }
 
-
 #vertical-line {
     position: relative;
     left: 40px;
@@ -223,10 +222,6 @@ iframe{
     height: 200px;
 }
 
-.frise_text h2{
-    margin-top: 10px;
-}
-
 #legende_vert{
     border-left: solid #267F00 20px;
     margin: 5px;
@@ -243,15 +238,11 @@ iframe{
 }
 
 #carte_expansion{
-    width: 100%;
-    margin: 20px;
+    width: 95%;
 }
 
 #carte{
     display: flex;
     justify-content: center;
     background-color: whitesmoke;
-    border: solid;
-    margin-right: 10px;
-    border-radius: 20px;
 }
