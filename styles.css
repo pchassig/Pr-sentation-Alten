@@ -9,6 +9,10 @@ body, html{
     font-family: var(--police);
 }
 
+.sousTitre{
+    scroll-margin-top: 80px; /* Déplace la position du scroll vers le bas */
+  }
+
 header{
     background-color: var(--couleur2);
     height: 50px;
@@ -203,6 +207,10 @@ iframe{
 .frise_text{
     width: 400px;
     height: 200px;
+}
+
+.frise_text h2{
+    margin-top: 10px;
 }
 
 #legende_vert{
