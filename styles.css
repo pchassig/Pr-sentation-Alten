@@ -248,10 +248,18 @@ iframe{
     justify-content: center;
 }
 
+#carte_expansion{
+    border-radius: 20px;
+}
+
 #contain_left{
     position: relative;
     display: flex;
     justify-content: left;
+    border: solid;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: whitesmoke;
 }
 
 .img_apparition img {
@@ -262,26 +270,38 @@ iframe{
     visibility: visible; /* Rendre l'image visible quand la souris passe dessus */
 }
 
+#amerique_angle{
+    border-radius: 20px;
+}
+
 #amerique{
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 20px;
+    left: 20px;
 }
 
 #europe{
     position: absolute;
-    top: 105px;
-    left: 338px;
+    top: 125px;
+    left: 358px;
 }
 
 #afrique{
     position: absolute;
-    top: 236px;
-    left: 330px;
+    top: 256px;
+    left: 350px;
 }
 
 #asie{
     position: absolute;
-    top: 153px;
-    left: 534px;
+    top: 173px;
+    left: 554px;
+}
+
+.info_carte_contain{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
 }
