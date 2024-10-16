@@ -242,12 +242,46 @@ iframe{
     margin-left: 10px;
 }
 
-#carte_expansion{
-    width: 95%;
-}
-
 #carte{
+    position: relative;
     display: flex;
     justify-content: center;
-    background-color: whitesmoke;
+}
+
+#contain_left{
+    position: relative;
+    display: flex;
+    justify-content: left;
+}
+
+.img_apparition img {
+    visibility: hidden; /* Rendre l'image invisible */
+}
+
+.img_apparition:hover img {
+    visibility: visible; /* Rendre l'image visible quand la souris passe dessus */
+}
+
+#amerique{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#europe{
+    position: absolute;
+    top: 105px;
+    left: 338px;
+}
+
+#afrique{
+    position: absolute;
+    top: 236px;
+    left: 330px;
+}
+
+#asie{
+    position: absolute;
+    top: 153px;
+    left: 534px;
 }
