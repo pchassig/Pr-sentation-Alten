@@ -229,11 +229,15 @@ iframe{
 }
 
 #carte_expansion{
-    width: 95%;
+    width: 100%;
+    margin: 20px;
 }
 
 #carte{
     display: flex;
     justify-content: center;
     background-color: whitesmoke;
+    border: solid;
+    margin-right: 10px;
+    border-radius: 20px;
 }
