@@ -135,6 +135,20 @@ iframe{
     height: 1000px;
 }
 
+.sous_partie{
+    height: 300px;
+}
+.sous_partie img{
+    width: 25%;
+    float: right;
+    height: 6*width;
+}
+
+.texte{
+    width: 50%;
+    float: left;
+}
+
 
 #vertical-line {
     position: relative;
