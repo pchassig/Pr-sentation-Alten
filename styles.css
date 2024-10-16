@@ -298,10 +298,30 @@ iframe{
     left: 554px;
 }
 
-.info_carte_contain{
+#info_carte_contain{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
     gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.carte_info{
+    background-color: whitesmoke;
+    border: solid;
+    border-radius: 20px;
+    width: 300px;
+    box-shadow: 10px 5px 5px gray;
+}
+
+.titre_carte{
+    display: flex;
+    justify-content: center;
+    border-bottom: solid;
+}
+
+.titre_carte h2{
+    margin: 5px;
 }
