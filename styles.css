@@ -227,3 +227,13 @@ iframe{
 #legende_2000{
     margin-left: 10px;
 }
+
+#carte_expansion{
+    width: 95%;
+}
+
+#carte{
+    display: flex;
+    justify-content: center;
+    background-color: whitesmoke;
+}
