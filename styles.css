@@ -359,6 +359,14 @@ footer iframe{
     border-bottom: solid;
 }
 
+.texte_carte{
+    padding: 10px;
+}
+
+.texte_carte a{
+    color: black;
+}
+
 .secteurs {
     width: 100%;
     display: flex;
@@ -461,4 +469,12 @@ footer iframe{
     border-radius: 20px;
     padding: 10px;
     margin: 20px;
+}
+
+#histoire,#expansion{
+    padding: 10px;
+    text-align: center;
+    background-color: whitesmoke;
+    border: solid;
+    border-radius: 20px;
 }
