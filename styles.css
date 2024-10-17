@@ -171,17 +171,25 @@ footer iframe{
     padding-left: 10%;
 }
 
+/*texte en z Paul*/
+
 .texte1{
     width: 50%;
     float: left;
     padding-left: 100px;
+    padding-right: 20px;
+    background-color: #709ab6;
 }
 
 .texte2{
     width: 50%;
     float: right;
     padding-right: 100px;
+    padding-left: 20px;
+    background-color: #709ab6;
 }
+
+/*fin texte en z Paul*/
 
 #vertical-line {
     position: relative;
