@@ -125,14 +125,39 @@ main{
     background-color: white;
 }
 
+/*footer*/
+
 footer{
     background-color: var(--couleur3);
     height: 200px;
+   
 }
-
-iframe{
+footer iframe{
+    
     float: right;
 }
+
+.coordonnées{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 75%;
+}
+
+
+
+.contributeur{
+    display: flex;
+    justify-content: left;
+    
+}
+
+
+
+/*fin footer*/
+
+
 
 .test{
     height: 1000px;
