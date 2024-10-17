@@ -351,6 +351,10 @@ footer iframe{
     border-bottom: solid;
 }
 
+.texte_carte{
+    padding-left: 10px;
+}
+
 .secteurs {
     width: 100%;
     display: flex;
