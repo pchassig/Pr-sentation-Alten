@@ -76,9 +76,26 @@ main{
     margin-top: 4em;
 }
 
+/*Image en tête de page*/
 #img_tete_groupe{
     width: 100%;
 }
+
+#entete{
+    position: relative;
+}
+
+#titre_tete{
+    margin: 0px;
+    position: absolute;
+    top: calc(50% - 32.5px);
+    left: calc(50% - 194.5px);
+    background-color: #37636A;
+    color: #8cb5dc;
+    border: 4px solid black;
+    padding: 10px;
+}
+/*Fin Image en tête de page*/
 
 .window-container{
     display: flex;
