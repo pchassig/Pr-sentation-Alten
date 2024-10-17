@@ -79,6 +79,7 @@ main{
 /*Image en tête de page*/
 #img_tete_groupe{
     width: 100%;
+    height: 700px;
 }
 
 #entete{
