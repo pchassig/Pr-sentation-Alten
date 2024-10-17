@@ -190,6 +190,11 @@ footer iframe{
 
 /*texte en z Paul*/
 
+
+.categorie{
+    padding-left: 3%;
+}
+
 .texte1{
     width: 50%;
     float: left;
