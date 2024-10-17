@@ -29,17 +29,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpchassig.github.io%2FPresentation-Alten%2Findex.html)
 
-
-![capture d'écran de la conformité de la page ...](captures/capture_index_W3C.png)
-
-ou 
-
 <img src="captures/capture_index_W3C.png" style="width=400px" alt="capture ecran sur w3c">
-
-
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](captures/capture_index_ecoindex.png)
-
-ou 
 
 <img src="captures/capture_index_ecoindex.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'eco-conception">
 
@@ -63,17 +53,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpchassig.github.io%2FPresentation-Alten%2FSecteurs.html)
 
-
-![capture d'écran de la conformité de la page ...](captures/capture_secteurs_W3C.png)
-
-ou 
-
 <img src="captures/capture_secteurs_W3C.png" style="width=400px" alt="capture ecran sur w3c">
-
-
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](captures/capture_secteurs_ecoindex.png)
-
-ou 
 
 <img src="captures/capture_secteurs_ecoindex.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'eco-conception">
 
@@ -85,17 +65,7 @@ ou
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpchassig.github.io%2FPresentation-Alten%2Fpage_innovation.html)
 
-
-![capture d'écran de la conformité de la page ...](captures/capture_innovation_W3C.png)
-
-ou 
-
 <img src="captures/capture_innovation_W3C.png" style="width=400px" alt="capture ecran sur w3c">
-
-
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](captures/capture_innovation_ecoindex.png)
-
-ou 
 
 <img src="captures/capture_innovation_ecoindex.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'eco-conception">
 
@@ -108,16 +78,7 @@ ou
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpchassig.github.io%2FPresentation-Alten%2Fpage_eco.html)
 
 
-![capture d'écran de la conformité de la page ...](captures/capture_eco_W3C.png)
-
-ou 
-
 <img src="captures/capture_eco_W3C.png" style="width=400px" alt="capture ecran sur w3c">
-
-
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](captures/capture_eco_ecoindex.png)
-
-ou 
 
 <img src="captures/capture_eco_ecoindex.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'eco-conception">
 
