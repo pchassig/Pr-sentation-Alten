@@ -359,6 +359,14 @@ footer iframe{
     border-bottom: solid;
 }
 
+.texte_carte{
+    padding: 10px;
+}
+
+.texte_carte a{
+    color: black;
+}
+
 .secteurs {
     width: 100%;
     display: flex;
