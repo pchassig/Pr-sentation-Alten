@@ -77,24 +77,42 @@ main{
 }
 
 /*Image en tête de page*/
-#img_tete_groupe{
+.img_tete{
     width: 100%;
     height: 700px;
 }
 
-#entete{
+.entete{
     position: relative;
 }
 
-#titre_tete{
+.titre_tete{
     margin: 0px;
     position: absolute;
-    top: calc(50% - 32.5px);
-    left: calc(50% - 194.5px);
     background-color: #37636A;
     color: #8cb5dc;
     border: 4px solid black;
     padding: 10px;
+}
+
+#titre_groupe{
+    top: calc(50% - 32.5px);
+    left: calc(50% - 194.5px);
+}
+
+#titre_eco{
+    top: calc(50% - 28px);
+    left: calc(50% - 314.5px);
+}
+
+#titre_innovation{
+    top: calc(50% - 28px);
+    left: calc(50% - 204px);
+}
+
+#titre_secteurs{
+    top: calc(50% - 32.5px);
+    left: calc(50% - 165px);
 }
 /*Fin Image en tête de page*/
 
@@ -414,26 +432,6 @@ footer iframe{
     flex-wrap: wrap;
     margin: 0;
     margin-bottom: 2em;
-}
-
-.titre{
-    position: relative;
-}
-
-.titre>h1{
-    margin: 0px;
-    position: absolute;
-    top: calc(50% - 32.5px);
-    left: calc(50% - 150.6px);
-    background-color: #37636A;
-    color: #8cb5dc;
-    border: 4px solid black;
-    padding: 10px;
-}
-
-.titre img{
-    width: 100%;
-    height: 750px;
 }
 
 .sec{
