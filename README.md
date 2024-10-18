@@ -29,7 +29,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpchassig.github.io%2FPresentation-Alten%2Findex.html)
 
-<img src="captures/capture_index_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+<img src="captures/capture_index_w3c.png" style="width=400px" alt="capture ecran sur w3c">
 
 <img src="captures/capture_index_ecoindex.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'eco-conception">
 
@@ -42,7 +42,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpchassig.github.io%2FPresentation-Alten%2Fpage_groupe.html)
 
 <br>
-<img src="captures/capture_groupe_W3C.png" width="400px" alt="capture ecran sur w3c">
+<img src="captures/capture_groupe_w3c.png" width="400px" alt="capture ecran sur w3c">
 
 <br>
 <img src="captures/capture_groupe_ecoindex.png" width="400px" alt="capture ecran sur ecoconcept">
@@ -53,7 +53,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpchassig.github.io%2FPresentation-Alten%2FSecteurs.html)
 
-<img src="captures/capture_secteurs_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+<img src="captures/capture_secteurs_w3c.png" style="width=400px" alt="capture ecran sur w3c">
 
 <img src="captures/capture_secteurs_ecoindex.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'eco-conception">
 
@@ -65,7 +65,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpchassig.github.io%2FPresentation-Alten%2Fpage_innovation.html)
 
-<img src="captures/capture_innovation_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+<img src="captures/capture_innovation_w3c.png" style="width=400px" alt="capture ecran sur w3c">
 
 <img src="captures/capture_innovation_ecoindex.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'eco-conception">
 
@@ -78,7 +78,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpchassig.github.io%2FPresentation-Alten%2Fpage_eco.html)
 
 
-<img src="captures/capture_eco_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+<img src="captures/capture_eco_w3c.png" style="width=400px" alt="capture ecran sur w3c">
 
 <img src="captures/capture_eco_ecoindex.png" style="width=400px" alt="capture ecran sur ecoconcept pour tester l'eco-conception">
 
